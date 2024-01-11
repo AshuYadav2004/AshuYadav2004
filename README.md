@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React js, Algorithms and data structures**
 
-- 💬 Ask me about **Html,Css,javascript**
+- 💬 Ask me about **Anything 👍**
 
 - 📫 How to reach me **ashutoshyadav81787@gmail.com**
 
