@@ -21,7 +21,7 @@
 
 <a href="https://twitter.com/@ashu_yadav2004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashu_yadav2004" height="30" width="40" /></a>
 <a href="https://fb.com/ashutosh yadav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashutosh yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/rangbaaj_xx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rangbaaj_xx" height="30" width="40" /></a>
+<a href="https://instagram.com/exactly_ashu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exactly_ashu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sub khatam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sub khatam" height="30" width="40" /></a>
 
 ### Languages and Tools:
