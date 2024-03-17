@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p style="text-align: right;" >
+<p align=" right" >
   <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" width="400" style="display: inline-block; float: right;" />
 </p>
 
