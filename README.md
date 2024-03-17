@@ -4,8 +4,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="right">
-  <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" width="400" />
+  <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" width="400" style="display: inline-block; float: right;" />
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuyadav2004&label=Profile%20views&color=0e75b6&style=flat" alt="ashuyadav2004" /> </p>
