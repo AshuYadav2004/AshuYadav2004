@@ -34,6 +34,29 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+[Visual Studio Code](https://code.visualstudio.com/) <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+[Sublime Text](https://www.sublimetext.com/) <img src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="Sublime Text" width="40" height="40"/>
+[Atom](https://atom.io/) <img src="https://img.icons8.com/ios-filled/50/000000/atom-editor.png" alt="Atom" width="40" height="40"/>
+[GitHub](https://github.com/) <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+[Bitbucket](https://bitbucket.org/) <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" width="40" height="40"/>
+[Jira](https://www.atlassian.com/software/jira) <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="40" height="40"/>
+[Trello](https://trello.com/) <img src="https://img.icons8.com/ios-filled/50/000000/trello.png" alt="Trello" width="40" height="40"/>
+[Docker](https://www.docker.com/) <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+[Kubernetes](https://kubernetes.io/) <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+[AWS](https://aws.amazon.com/) <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+[GCP](https://cloud.google.com/) <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="GCP" width="40" height="40"/>
+[Azure](https://azure.microsoft.com/) <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" width="40" height="40"/>
+[Figma](https://www.figma.com/) <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+[Git](https://git-scm.com/) <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+[Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html) <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+[Linux](https://www.linux.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+[Photoshop](https://www.photoshop.com/en) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+[Python](https://www.python.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+[Node.js](https://www.nodejs.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+[React](https://reactjs.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
