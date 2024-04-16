@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align=" right"  >
-  <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" width="300" style="display: inline-block; float: right;" />
+<p align="right"  >
+  <img src="[https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--0zLeX1LY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://res.cloudinary.com/practicaldev/image/fetch/s--TVrZFUna--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wukog07lt3tvqobbl611.gif)" alt="Coding" width="300" style="display: inline-block; float: right;" />
 </p>
 
 
